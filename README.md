@@ -3,7 +3,7 @@ A simple ROM-Hack of Super Mario Land (JUE) (VER1.1) that makes the game a lot m
 
 NEWER: Super Mario Land Second Subcon 1.2 (LITE) available now!
 
-* better indicators for fake/invisible blocks
+* better indicator for fake/invisible blocks
 
 NEW: Super Mario Land Second Subcon 1.2 (ORIGINAL) available now!
 
