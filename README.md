@@ -1,13 +1,13 @@
 # SML.-Second-Subcon
 A simple ROM-Hack of Super Mario Land (JUE) (VER1.1) that makes the game a lot more interesting. It features 12 unique levels based on Super Mario Bros. 2, including  gimmick levels that never appeared in other Super Mario Land ROM hacks before! A level where you have to stay big, a mirror level, and even hint art?! — find out yourself!
 
-NEWER: Super Mario Land Second Subcon 1.5 (LITE) available now!
+NEWER: Super Mario Land Second Subcon 1.6 (LITE) available now!
 
 * better indicators for fake/invisible blocks
 * easier 4-1 (removed 'mirror'-gimmick)
 * removed softlocks in 1-3 & 2-2
 
-NEW: Super Mario Land Second Subcon 1.5 (ORIGINAL) available now!
+NEW: Super Mario Land Second Subcon 1.6 (ORIGINAL) available now!
 
 * 12 unique levels
 * complete graphics overhaul
