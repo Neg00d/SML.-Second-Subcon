@@ -4,7 +4,7 @@ A simple ROM-Hack of Super Mario Land (JUE) (VER1.1) that makes the game a lot m
 NEWEST: Super Mario Land Second Subcon 1.6 (EXPERT) available now!
 
 * overall less illusions (except 1-3)
-* slighty different (& also harder) levels
+* slightly different (& also harder) levels
 
 NEWER: Super Mario Land Second Subcon 1.6 (LITE) available now!
 
