@@ -23,5 +23,6 @@ Super Mario Land Second Subcon 1.7 (ORIGINAL):
 * altered enemy & boss designs
 * new added story
 * fixed missing sprites in 2-3 [1.7]
+* fixed Mario's eyes (Title Screen) [1.7]
 
 Can you help Mario stop the Subcon Curse from spreading throughout the Mushroom Kingdom, and rescue the princess before it’s too late?
